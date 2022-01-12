@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Doxca
 - 👀 I’m interested in JS
-- 🌱 I’m currently learning js
+- 🌱 I’m currently flying
 - 📫 discord
